@@ -72,5 +72,6 @@ int main(){
 
     }while(hrm1=='n');
 
-    cout<<"El prgrama ha terminado...\n\n";
+    cout<<"El programa ha terminado...\n\n";
+
 }
